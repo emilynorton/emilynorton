@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emilynorton
-- 👀 I’m interested in an accessible web
-- 🌱 I’m currently learning a lot of new technologies
-- 💞️ I’m looking to collaborate on ?
+- 👀 I’m interested in an accessible web and a kind web
+- 🌱 I’m currently learning animation
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...emily@emilynorton.net
 
 <!---
