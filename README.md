@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emilynorton
 - 👀 I’m interested in an accessible web and a kind web
 - 👀 I'm interested in a world where people are safe and sovereign, and have good housing, food, and healthcare.
-- 🌱 I’m currently learning animation
+- 🌱 I’m currently learning animation and macrame
 - 💞️ I’m looking to collaborate on projects that help people, spirit, planet
 - 📫 How to reach me ...emilyfgb@gmail.com
 
