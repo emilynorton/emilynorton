@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @emilynorton
 - 👀 I’m interested in an accessible web and a kind web
 - 🌱 I’m currently learning animation
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...emily@emilynorton.net
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me ...emilyfgb@gmail.com
 
 <!---
 emilynorton/emilynorton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
