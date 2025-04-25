@@ -1,1 +1,1 @@
-UX / Product / Front-End Engineering
+UX / Product / Front-End Development
